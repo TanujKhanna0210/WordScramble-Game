@@ -44,6 +44,13 @@ class GameViewModel : ViewModel() {
         else return false
     }
 
+    fun reinitializeData() {
+        _score=0
+        _currentWordCount=0
+        wordList.clear()
+        getNextWord()
+    }
+
     init {
         Log.d("Game Fragment","GameViewModel created!")
         getNextWord()
