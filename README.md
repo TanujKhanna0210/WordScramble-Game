@@ -1,1 +1,1 @@
-Unscramble App
+A Word-scrambling Game
