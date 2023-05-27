@@ -1,1 +1,2 @@
-A Word-scrambling Game
+# Unscramble
+This is a single player word scrambler game. The app displays one scrambled word at a time, and the player has to guess the word using all the letters from the scrambled word. The player scores points if the word is correct, otherwise the player can try any number of times. The app also has an option to skip the current word. In the left top corner, the app displays the word count, which is the number of words played in this current game. There are 10 words per game.
